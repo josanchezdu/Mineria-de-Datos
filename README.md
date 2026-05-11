@@ -18,7 +18,7 @@ El repositorio contiene todas las herramientas necesarias para replicar el proce
 * * **`sqlite_webscraping.db`**: Base de datos relacional con la información estructurada de 78 artículos.
 * **`Taller1_Mineria.qmd`**: Archivo fuente técnico (Quarto) del proyecto.
 
-## 📋 Contenido del Informe Técnico
+## Contenido del Informe Técnico
 El documento final se divide en las siguientes secciones para facilitar su lectura:
 1. **Introducción**
 2. **Fuente de Datos y Scraping**
@@ -28,4 +28,4 @@ El documento final se divide en las siguientes secciones para facilitar su lectu
 6. **Hallazgos, Limitaciones y Conclusión**
 
 ---
-*Este proyecto refleja un dominio sólido en la ciencia de datos aplicada a contextos actuariales. **Te invito a explorar mi portafolio completo en GitHub para conocer más sobre mi trabajo.***
+
