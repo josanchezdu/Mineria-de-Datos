@@ -5,7 +5,7 @@ Proyecto de minería de datos enfocado en el análisis financiero y actuarial. I
 ## Acceso Directo al Informe
 Para ver el desarrollo completo del taller, resultados y visualizaciones interactivas, haz clic en el siguiente enlace:
 
-👉 **[VER PROYECTO COMPLETO (Página Web)](https://htmlpreview.github.io/?https://github.com/josanchezdu/Mineria-de-Datos/blob/main/htlm_Mineria.html)**
+**[VER PROYECTO COMPLETO (Página Web)](https://htmlpreview.github.io/?https://github.com/josanchezdu/Mineria-de-Datos/blob/main/htlm_Mineria.html)**
 
 ---
 
