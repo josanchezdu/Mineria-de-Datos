@@ -15,7 +15,7 @@ El repositorio contiene todas las herramientas necesarias para replicar el proce
 
 * **`webscraping.py`**: Script de automatización para la captura de metadatos en Wiley.
 * **`creacion_tabla_sqlite.py`** & **`ejercicios_sqlite.py`**: Lógica de base de datos y consultas SQL analíticas.
-* * **`sqlite_webscraping.db`**: Base de datos relacional con la información estructurada de 78 artículos.
+* **`sqlite_webscraping.db`**: Base de datos relacional con la información estructurada de 78 artículos.
 * **`Taller1_Mineria.qmd`**: Archivo fuente técnico (Quarto) del proyecto.
 
 ## Contenido del Informe Técnico
