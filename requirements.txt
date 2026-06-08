@@ -7,3 +7,5 @@ sqlalchemy
 requests
 selenium
 undetected_chromedriver
+chromium
+chromium-driver
