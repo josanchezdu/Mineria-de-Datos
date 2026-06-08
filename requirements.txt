@@ -5,4 +5,5 @@ plotly
 beautifulsoup4
 sqlalchemy
 requests
+selenium
 undetected_chromedriver
